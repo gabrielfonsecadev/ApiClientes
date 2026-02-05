@@ -30,15 +30,11 @@ API simples em .NET 8 para cadastro e listagem de clientes, utilizando Controlle
 ### Passos
 
 1.  Clone o repositório ou navegue até a pasta do projeto.
-2.  Entre na pasta da solução/projeto:
-    ```bash
-    cd ApiClientes
-    ```
-3.  Execute o comando para rodar a aplicação:
+2.  Execute o comando para rodar a aplicação:
     ```bash
     dotnet run
     ```
-4.  Acesse o Swagger para testar os endpoints:
+3.  Acesse o Swagger para testar os endpoints:
     - URL: `https://localhost:5000/swagger`.
 
 ## 📌 Endpoints
